@@ -1,0 +1,27 @@
+ style type="text/css"
+ 	{ 
+								  padding:0px;
+								  margin: 0px; 
+								 }
+								 
+								#header  {
+								      margin:auto;
+								      width: 500px;
+								      font-family: arial
+								  ul, ol  {
+								       list-style: none;
+								       }
+								.nav li a {
+								background-color: red;
+								color:blue;
+								text-decoretion: none;
+								padding:10 px   15px;
+								display: block;
+								}
+							 .nav > li {
+							   float: left;
+							   }
+								      
+								
+								
+				
